@@ -1,2 +1,2 @@
 # Hello-World
-Tämä on jotain hienoa
+Kerro mitä pitäis kirjottaa.
